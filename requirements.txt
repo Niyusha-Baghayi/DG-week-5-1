@@ -1,0 +1,6 @@
+Pandas
+Numpy
+Pickleshare
+Flask
+Requests
+Gunicorn
