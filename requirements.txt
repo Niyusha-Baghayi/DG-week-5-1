@@ -4,3 +4,6 @@ Pickleshare
 Flask
 Requests
 Gunicorn
+Sklearn
+Seaborn
+Matplotlib
