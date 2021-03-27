@@ -1,5 +1,0 @@
-Pandas
-Numpy
-Pickle
-Flask
-Requests
