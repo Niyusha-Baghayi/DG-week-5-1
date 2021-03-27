@@ -1,6 +1,5 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request, jsonify
 import pickle
-from flask import Flask, request, jsonify
 import pandas as pd
 import numpy as np
 
@@ -39,6 +38,6 @@ def results():
 
 
 if __name__ == '__main__':
-    app.run(debug=False)
+    app.run()
 
     
